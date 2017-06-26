@@ -11,6 +11,14 @@ body {
   background-repeat: no-repeat;
 }
 
-a, a:hover{
+a, a:hover, a:visited{
   color: white;
+}
+
+ul {
+   	text-align: center;
+}
+
+li {
+    display: inline-block;
 }
